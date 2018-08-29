@@ -1,0 +1,1329 @@
+{ 
+    "Bent River Brewing": [
+        {
+            "name": "Apricot Wheat",
+            "abv": "4.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "An American Wheat ale with over 35 lbs of real apricots per barrel, resulting in a medium-bodied, slightly sweet and refreshing beer."
+        },
+        {
+            "name": "Mango IPA",
+            "abv": "7.3%",
+            "seasonal": "",
+            "image": "",
+            "description": "Juicy IPA featuring Mosaic Hops and just a touch of lactose. Notes of tropical fruit and a full body round out with a pleasing bittersweet finish."
+        },
+        {
+            "name": "Brut IPA",
+            "abv": "7.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Extra Dry malt profile. Brewed with Hallertau Blanc, Amarillo, and El Dorado hops which give this IPA a slight Champagne quality."
+        },
+        {
+            "name": "Uncommon Stout",
+            "abv": "6.4%",
+            "seasonal": "",
+            "image": "",
+            "description": "This unique stout is our top-selling beer. We infuse our Oatmeal Stout with some of the country's best coffee to make this award-winning, medium-bodied ale. Draft and bottle only."
+        },
+        {
+            "name": "Daytrotter Pale Horse Pale Ale",
+            "abv": "5.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "For over a decade, Daytrotter has shined a spotlight on up-and-coming bands by recording their work and giving them a stage to showcase their talents here in the Quad Cities. When Bent River Brewing Company agreed to brew a beer with Daytrotter, they wanted to shine the spotlight on some lesser known hop varieties. The Pale Horse is brewed with Azacca and Hull Melon hops, which lend flavors of strawberry and honeydew melon to this refreshing, easy drinking pale ale."
+        },
+        {
+            "name": "Coconut Porter",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "We aged our classic English Style Porter on over 5 lbs of freshly toasted coconut per barrel. The finished product is mildly hopped and has a creamy, roasted chocolate finish with loads of coconut flavor."
+        },
+        {
+            "name": "Raspberry Wheat",
+            "abv": "4.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "A seasonal offering: This medium-bodied wheat beer is infused with raspberries to give it a tart, fruity flavor. It has proven very popular when mixed with our Jalapeno Pepper Ale or Uncommon Stout. Draft and bottle only."
+        },
+        {
+            "name": "Party Guy DIPA",
+            "abv": "8.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "The larger portion of our 'Parti-Gyle' brew,this double IPA is aggresively hopped with warrior, Mosaic, and Simcoe hops"
+        },
+        {
+            "name": "Grüngeist S.M.A.S.H",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Pale ale brewed with one malt, Golden Promise and one hop, Grungeist. The Golden Promise malt is imported from Scotland, and provides a well balanced malt backbone and mouthfeel on its own. The Grungeist hops floral notes with hints of peach and passionfruit."
+        },
+        {
+            "name": "Mississippi Blonde",
+            "abv": "3.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "2007 GABF Bronze Medal winner. Our second most popular beer is a light-bodied, golden ale. It is an easy way to introduce drinkers to the deliciously complicated world of craft beer. Draft and bottle only."
+        },
+        {
+            "name": "Paddle Wheel Pale Ale",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Compared to a Pre-Prohibition American style beer, this full-bodied ale has a well-balanced, hoppy finish."
+        },
+        {
+            "name": "Jalapeño Pepper Ale",
+            "abv": "3.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "Fire-roasted peppers are added to this wheat ale whose medium body captures the fruitiness of the jalapeño and ends with a spicy finish. Draft and bottle only."
+        },
+        {
+            "name": "De Soto Lager",
+            "abv": "5.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "A seasonal offering: A Mexican-style lager that's clean and refreshing. A great session beer for the summer--serve with a slice of lime! Excellent when mixed with our Sweet Potato Ale or our Raspberry Wheat. Draft only."
+        },
+        {
+            "name": "Slice's Grissette",
+            "abv": "4.1%",
+            "seasonal": "",
+            "image": "",
+            "description": ""
+        },
+        {
+            "name": "Key Lime Gose",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Kettle soured gose with corriander, Himalayan pink salt, and Key lime"
+        },
+        {
+            "name": "Milltown Wheat",
+            "abv": "5.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Brewed with 50% white wheat malt, this easy drinking, American Wheat Ale has a medium body and is hop burst with ample amounts of Amarillo hops. The hops provide bright, flowery, orange notes to this sessionable brew."
+        }
+    ],
+
+    "Blue Blood Brewing": [
+        {
+            "name": "Kompagnon Kölsh",
+            "abv": "4.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "Kompangnon [pronounced like 'companion' and German for buddy] is our tribute to man's best crime-fighting friend and Nebraska's strong German heritage. Using a recipe consistent with the Purity Law of 1516, this light, easygoing Kölsch is perfect for anyone who enjoys a good brew among good company."
+        },
+        {
+            "name": "Wicked Snout Farmhouse Ale",
+            "abv": "6.4%",
+            "seasonal": "",
+            "image": "",
+            "description": "The inspiration for this Farmhouse Ale comes from well, the farm, as a young livestockman, our friend often tussled with the pigs during his daily chores. That good ole'Nebraska farm boy is a lot like the yeast in this hardworking Saison, and those wicked little piggies are a lot like the hops. Be careful, they'll sneak up on you.  "
+        },
+        {
+            "name": "All Hopped Up IPA",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Some dudes have more energy than they know what to do with. Our friend Brock is one of 'em. From helping our brewery get up and running to raising pythons, the man is always looking for a new challenge to sink his teeth into. All Hopped Up is our tribute. Submit to its refreshing yet striking flavor."
+        },
+        {
+            "name": "McKinney's Irish Pub Ale",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "We have a couple of Irish buddies that own a couple Irish pubs right here in Nebraska. For them and all the Irish in each of us, we created an easy drinking Irish Red Ale that has the soft caramel malt sweetness and mild toasty finish that Irish Red Ales are known for. If that didn't bring out the Irish in you we added just a wee bit of hop kick to balance it all out and wake you blokes up. "
+        },
+        {
+            "name": "Two Gun Triticale Brown Ale",
+            "abv": "5.5%",
+            "seasonal": "Available September Thru November",
+            "image": "",
+            "description": "Starsky and Hutch, Riggs and Murtaugh, Cagney and Lacey (for all the ladies out there). Many dynamic duos have worn the badge. This is another. Triticale, a hybrid of wheat and rye, is the defining ingredient of this delicious brown ale, created with the help of some local professors. Here's to great teamwork and the science behind great taste!"
+        },
+        {
+            "name": "Hope Stout",
+            "abv": "5.0%",
+            "seasonal": "Available December Thru February",
+            "image": "",
+            "description": "A beer originally brewed in memory of a friend who lost his battle to cancer, we are now honoring everyone who is, has, or will be in the fight by providing HOPE, giving a percentage of sales back to Cancer Research!  A beer with a roasted coffee flavor and mild dark chocolate sweetness, this light bodied stout is intended to be enjoyed with friends in memory of those we have lost, in celebration of those we have, and with eagerness for those friends we have yet to meet. "
+        },
+        {
+            "name": "6-4-3 Double Play Pilsner",
+            "abv": "5.2%",
+            "seasonal": "Available June Thru August",
+            "image": "",
+            "description": "Play Ball!!  Brewed for our local boys of summer, the Lincoln SaltDog’s, this beer is meant to keep you cool during the dog days of summer while enjoying your favorite team flip the most popular double play in baseball."
+        },
+        {
+            "name": "Big Log Wheat",
+            "abv": "5.2%",
+            "seasonal": "Available March Thru May",
+            "image": "",
+            "description": "Lincoln, Nebraska is our homestead, Big Log Wheat was originally brewed for our friends at local landmark Wilderness Ridge. The name is a nod to the logs used to build that lodge-and the cabins of the pioneers who settled our state. The flavor is a trailblazing take on the Weizen style of wheat with great spice notes of clove.  "
+        },
+        {
+            "name": "Last Call Imperial Amber Ale",
+            "abv": "8.4%",
+            "seasonal": "",
+            "image": "",
+            "description": "Law Enforcement is in our blood. When an officer falls in the line of duty, we share the loss. Last Call is our tribute to those who've made the ultimate sacrifice. This amber ale is perfectly balanced to embody their courage and character. It's a taste that's hard to forget. Just like the men and women it honors. "
+        },
+        {
+            "name": "Pernicious Double IPA",
+            "abv": "8.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "For those of us who didn't major in English, 'pernicious' is a fancy word for 'evil.'' It's an apt description of this double IPA and the subversive aroma created by an extra dose of hops - famously declared a 'wicked and pernicious weed' by King Henry VIII in 1519. Raise a glass of Pernicious and toast the spirit of defiance. "
+        },
+        {
+            "name": "Okhrana Imperial Stout",
+            "abv": "9.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "This Russian Imperial Stout owes its name to the secret police force charged with protecting the Russian Empire at any cost. Its bold, dark flavor was inspired by the prosperous reign of Catherine the Great. The Empire may have fallen, but the beer it inspired is strong as ever."
+        },
+        {
+            "name": "Merciless Black IPA",
+            "abv": "7.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "In concocting this Black IPA [aka Cascadian Dark Ale], we showed no leniency. Sentencing you to malty, toasty notes and a judiciously high IBU, it drops the hammer with a heavy-handed dose of American hops. Hold nothing back. Make no Apologies. Be Merciless."
+        },
+        {
+            "name": "Fresh Hopped Pale Ale [EXP.02]",
+            "abv": "7.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "This pale ale features hops grown right in our back yard, Prague, NE. The late addition of these Cascade hops during fermentation  helps produce a citrus, resin character, followed up with a candy-like malt finish. "
+        },
+        {
+            "name": "Robbers Cave Series Peach Gose [EXP.03]",
+            "abv": "4.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "Belonging to the family of sour wheat ales, this Gose’s subtle  lemon, pear, and peach sweetness is complimented by the traditional hint of spicy coriander and sea salt that we all know  and love."
+        },
+        {
+            "name": "American Barleywine",
+            "abv": "10.3%",
+            "seasonal": "",
+            "image": "",
+            "description": "This American Barleywine, is anything but your ordinary Barleywine. A perfect blend of spice, dark fruit and hop bitterness.  This brew will surely warm you up and make you feel all kinds of good inside."
+        },
+        {
+            "name": "Himalayan Style Blonde Ale with Spices",
+            "abv": "5.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "Starting as a home-brew recipe and transformed into a large scale brew, this Blonde ale still held all its Chai and spice flavors as if we home-brewed the whole batch. Extremely smooth and easy drinking, it gives you that little sweetness you crave sometimes. "
+        }
+    ],
+    "Bur Oak Brewing":[
+        {
+            "name": "Boone County Brown",
+            "abv": "5.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "Boone County Brown is a rich, brown ale that is easy to drink with a remarkably smooth finish. With a roasted malt character and notes of chocolate and coffee, Boone County Brown has a flavor that is beyond satisfying."
+        },
+        {
+            "name": "Big Tree DIPA",
+            "abv": "7.6%",
+            "seasonal": "",
+            "image": "",
+            "description": "Crafted to commemorate the Champion Burr Oak Tree of mid-Missouri. Big Tree Double IPA lives up to its name with a 7.6% ABV and a hop load of 75 IBUs. Big Tree has a mild caramel malt character with big bold hop flavor! "
+        },
+        {
+            "name": "Lily Ale",
+            "abv": "4.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "Lily is a cream ale with orange and raspberry. Some say that it almost tastes like an orange dreamsicle. Full-bodied and smooth, Lily has a soft finish."
+        },
+        {
+            "name": "Old 63",
+            "abv": "4.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Old 63 is a great balance of hops, barley, and corn. It's a crisp and refreshing beer that you can drink all day. Old 63 is available in 12 packs."
+        },
+        {
+            "name": "Creme De La Hop",
+            "abv": "5.4%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Creme de la Hop is brewed for those looking for a highly drinkable ale with a well-balanced hop presence. Loaded with juicy Eukanot hops, Creme de la Hop has citrus and tropical fruit notes combined with the sweetness of a cream-style ale."
+        },
+        {
+            "name": "Dark Star With Coffee",
+            "abv": "4.8%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Dark Star offers the crisp smooth character of a classic German Kolsch ale, combined with a deep, dark sensation delivered through a mild caramel nuttiness. We added in Ethiopian Lakota Coffee to give this dark colored yet crisp and easy-drinking beer a flavorful coffee finish."
+        },
+        {
+            "name": "Clyde's Caramel Cream",
+            "abv": "5.7%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Clyde’s Caramel Cream Ale is a silky cream ale. Clyde’s is named after our famous rescue cat who keeps a watchful eye on grain intruders. Mildly sweet with notes of caramel and vanilla, this cream ale has a luxurious mouthfeel, and a smooth, creamy finish."
+        },
+        {
+            "name": "Tractor Fire",
+            "abv": "5.2%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Tractor Fire is a hot twist on one of our classic beers. It's our Boone County Brown infused with chipotle peppers. This gives this beer a smoky aroma and warming after taste. It's mild and smooth, with a roasted malt character."
+        },
+        {
+            "name": "Stout Heart",
+            "abv": "7.6%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Stout Heart is a giant Ent tree creature of Middle-Earth and the protector of the Big Tree. Stout Heart, protector of all things good, wards off evil and rescues righteousness. Our stout is formidable and strong, with a smooth and toasty flavor."
+        },
+        {
+            "name": "Frank's Golden Cream",
+            "abv": "5.4%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Frank’s is a Golden Cream Ale that is slightly sweet and easy to drink. Notes of honey and vanilla round out the flavor. "
+        },
+        {
+            "name": "Sacred Sun",
+            "abv": "5.0%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Sacred Sun is a blended sour saison coming in at 5% ABV. This blended saison is slightly sour, bright, and refreshing - a perfect summertime beer!"
+        },
+        {
+            "name": "Fest Bier",
+            "abv": "5.8%",
+            "seasonal": "Limited Release",
+            "image": "",
+            "description": "Our golden lager, Fest Bier, has the vibrant malt flavor of a traditional Oktoberfest beer. Prost!"
+        }
+    ],
+    "Nine Band Brewing": [
+        {
+            "name": "Ron Santo 10 Ale",
+            "abv": "5.2%",
+            "seasonal": "",
+            "image": "",
+            "description": "Pouring brilliantly golden in color, this classic Kolsch style ale features a fruity nose, with hints of honeydew melon and buttered biscuits. Soft and creamy across the palate, an initial touch of honeyed sweetness gives way to a refreshingly crisp and tangy finish. Pair with sunshine, baseball and a hot dog smothered in brown mustard and relish."
+        }
+    ],
+    "Cellarman's": [
+        {
+            "name": "Moscow Miel Mead",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Our take on the Moscow Mule cocktail. Michigan wildflower honey(miel) with fresh ginger and fresh limes"
+        },
+        {
+            "name": "French Oak Wildflower",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "A true mead, 100% Michigan wildflower honey aged on French Oak"
+        },
+        {
+            "name": "Raspberry Melomel",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "A mead with fruit (melomel), in this case, fresh raspberries and star-thistle honey"
+        },
+        {
+            "name": "Hungry Girl",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Wildflower with Fresh Strawberries and Vietnamese White Pepper (watch out for her)"
+        },
+        {
+            "name": "Traditional Dry",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Our take on a traditional American cider. Fermented until completely dry and then carbonated. What cider once was"
+        },
+        {
+            "name": "Semi-Sweet",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Our house cider sweetened with just a bit of Star-Thistle Honey from Petoskey, MI"
+        },
+        {
+            "name": "Pineapple Cider",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Fresh Pineapple from the Philippines and Star Thistle Honey"
+        },
+        {
+            "name": "Ethiopian Limu Coffee Cider ",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Another seasonal cider made with a prized Ethiopian coffee roasted at Chazzano Coffee in Ferndale, MI"
+        },
+        {
+            "name": "Trasher",
+            "abv": "4.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "The Non-Lager Lager. We make beer. We make small batch beer. 2 barrels at a time to be exact. That means we get to make a lot of different beers that are always changing, here are just a few of our beers that are always rotating."
+        },
+        {
+            "name": "Crackhead",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Belgian Amber. We make beer. We make small batch beer. 2 barrels at a time to be exact. That means we get to make a lot of different beers that are always changing, here are just a few of our beers that are always rotating."
+        },
+        {
+            "name": "El Heffe",
+            "abv": "5.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Rye Hefeweizen with Long Pepper and Orange. We make beer. We make small batch beer. 2 barrels at a time to be exact. That means we get to make a lot of different beers that are always changing, here are just a few of our beers that are always rotating."
+        }
+    ],
+    "Wylewood Cellars": [
+        {
+            "name": "BlueBerry Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Sweet, fruit forward, just picked off the vine blueberry taste. It pairs well with nuts, cheese, and even cheese cake"
+        },
+        {
+            "name": "CranBerry Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Much like a tangy cranberry salad this wine is great at Thanksgiving, Christmas, or any time you want the tart taste of cranberries"
+        },
+        {
+            "name": "ElderBerry Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "As one our first wines made with elderberry from the family farm. A soft distinctive taste of excellence"
+        },
+        {
+            "name": "ElderBerry Blackberry Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Two luscious berries in one deliciously sweet wine."
+        },
+        {
+            "name": "Elderberry Mead Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A delicious and sweet honey and Elderberry mead, tastes like liquid honey with elderberries. Double Gold and Honey Wine Blend of the Year - Indy 2012."
+        },
+        {
+            "name": "Elderberry Blackberry Mead Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A delightful blend of Elderberries and Blackberries, soaked in honey to make an exquisite blended mead."
+        },
+        {
+            "name": "Lady Dulcé Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Luck be a lady tonight! But you don't have to be lucky to get this lady! She is light and delicate, blended with sweet white grapes that makes this wine a true indulgence. We compare it to a delightful Moscato."
+        },
+        {
+            "name": "Lady Pearl Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "The fabulous Lady Pearl is the newest addition to our wine list. This simple blend has a refreshing strawberry flavor to compare to the best Moscato. Gold Medal winner at the 2016 INDY Wine Competition."
+        },
+        {
+            "name": "Muscadine Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A true southern belle with flavor as big as the grape itself."
+        },
+        {
+            "name": "Peach Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Bursting with fresh peach flavor, this wine will leave you wanting to wipe the juice from your chin."
+        },
+        {
+            "name": "Prairie Sunset Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A blend of white grapes with a hint of Elderberry for color! Comparable to a Pink Moscato!"
+        },
+        {
+            "name": "Spiced Wine-Elderberry Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Elderberry wine enhanced with cinnamon and cloves. Serve hot like a Wassail or cold over ice with fruit as a Sangria. Served at the 2002 Winter Olympic Village!"
+        },
+        {
+            "name": "Strawberry Rhubarb Pie",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "The wine tastes just like grandma's Strawberry Rhubarb pie."
+        },
+        {
+            "name": "Elderberry Semi-Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "The most popular sweetness level for Elderberry Wine. Bursting with berry flavor."
+        },
+        {
+            "name": "Elderberry Blackberry Semi-Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "This tremendous flavorful wine brings together the wonderful taste of elderberry with a true full body of the blackberry."
+        },
+        {
+            "name": "Prairie Sunshine - Our Christmas Wine Semi-Sweet Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "This crisp fruitful wine is easy to enjoy with family in a glass or can be used as a great base for cooking."
+        },
+        {
+            "name": "Elderberry Semi-Dry Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "The most popular sweetness level for Elderberry Wine. Bursting with berry flavor."
+        },
+        {
+            "name": "Traminette Semi-Dry Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "An estate grown white grape, this semi-dry wine has a spicy aroma. It's good with many dishes including poultry and fish."
+        },
+        {
+            "name": "Elderberry Dry Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Our Elderberry wine is made in a Pinot Noir style: Fruity, low to moderate tannins, light oak, very drinkable with most foods"
+        },
+        {
+            "name": "Elderberry Blackberry Dry Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A perfect fruity red blend of elderberry and blackberry with no residual sugar. Similar to a Sangiovese."
+        },
+        {
+            "name": "Indulge Me! Dessert Wine",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Our Chocolate Elderberry Port Style Dessert Wine. Tastes like a chocolate covered cherry! Decadent over ice cream or cheesecake!"
+        }
+    ],
+    "Wild Blossom Meadery": [
+        {
+            "name": "Apple Cin",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A sweet spiced mead fermented with apples, cinnamon, and other spices. Excellent cold and perfect hot with a stick of cinnamon."
+        },
+        {
+            "name": "Avalon",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Wildflower honey and fresh pressed Honeycrisp apple cider are fermented together and aged for 2 years in an oak barrel that previously held our award winning Sweet Desire mead"
+        },
+        {
+            "name": "Blueberry Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A fruit mead that has the sweet taste of plump blueberries and a floral honey finish.  Supercharged with antioxidants from fermentation on whole blueberries."
+        },
+        {
+            "name": "Charlatan",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "An offshoot of our Blueberry Nectar, Charlatan is a blueberry mead that is treated like red wine. Left dry and aged in a wine barrel, this is sure to intrigue."
+        },
+        {
+            "name": "Chicago Bulls Blood",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A blend of Cabernet Sauvignon, Merlot and Shiraz. A bold red with deep flavor and soft tannins. A slam dunk winner for Chicago."
+        },
+        {
+            "name": "Chocolate Cherry Buzz",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Our chocolate mead blended with our cherry mead creating a chocolate covered cherry in a glass."
+        },
+        {
+            "name": "Chocolate Honey Buzz",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A honey wine fermented with cocoa. Full of chocolate flavor and the taste of honey."
+        },
+        {
+            "name": "Cran Apple Cyser",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A combination of our cranberry honey wine, from the honey of our Chicago bees, fermented with apple cider. Tart notes of cranberry mingle with an Illinois cider to give it a semi-dry taste with a sparkling finish."
+        },
+        {
+            "name": "Cran Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A semi-dry mead made from honey fermented with fresh Wisconsin cranberries.  Mixes well in a wheat or domestic beer"
+        },
+        {
+            "name": "Green Apple Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Riesling grapes fermented with refreshing green apples and honey make this a perfect pairing."
+        },
+        {
+            "name": "Hop Stinger",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Combining the honey flavor of traditional mead with a strong dose of Nelson Sauvin and Citra hops, this is not your average honey wine. If you love the flavor of a well-hopped ale, Hop Stinger is the mead for you. Seasonal Availability."
+        },
+        {
+            "name": "Hibiscus Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Golden Honey fermented with hibiscus flowers yields a semi-sweet floral wine with honey tones and a tart finish. Perfect with light to spicy foods or on its own."
+        },
+        {
+            "name": "Paradigm",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A blend of Blackcurrants, Blackberries, tart cherries and wine grapes come together with our wildflower honey to produce a semi-sweet bold mead that is aged in oak wine barrels for 2 years. The strong fruit character carries through, leaving a rich, tannic finish."
+        },
+        {
+            "name": "Pirates Blood",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Three types of chili peppers give this capsicumel a fiery, smoky flavor balanced by the sweetness of honey. "
+        },
+        {
+            "name": "Pomegranate Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Wildflower honey fermented with pomegranates. The tart flavors of pomegranates are a perfect match with honey."
+        },
+        {
+            "name": "Pomegranate Zin Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": ""
+        },
+        {
+            "name": "Prairie Passion",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Stronger in alcohol and honey flavor than Blanc de Fleur. Made in the traditional style of “Honeymoon” or aphrodisiacal meads."
+        },
+        {
+            "name": "Raspberry Peach Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A wine made from nectar collected by honey bees from wildflowers of Illinois prairies fermented with raspberries and peaches."
+        },
+        {
+            "name": "Red Honey Sangria",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A red wine sangria sweetened with organic honey and blended with raspberry and peach flavors"
+        },
+        {
+            "name": "South Side Sangiovese",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": ""
+        },
+        {
+            "name": "Sweet Desire",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A sweet mead fermented and aged 1 year in a Kentucky bourbon barrel.  Smoky sweet bourbon flavors are combined with a complex oak and vanilla finish."
+        },
+        {
+            "name": "White Honey Sangria",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "white wine sangria sweetened with wild flower honey, bursting with peach flavors. "
+        },
+        {
+            "name": "Wildberry Nectar",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "A succulent wine made mostly from blend of berries & fruit, fermented with honey from the prairies of the Midwest.  Excellent blended with wheat and other domestic beers."
+        },
+        {
+            "name": "Wolfcraft",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "This wine combines honey and blood oranges with Amarillo and Mandarina Bavaria hops. The bright citrus flavors of the blood oranges and hops combine with a moderate honey sweetness to make a beverage to be enjoyed any time of day."
+        }
+        
+    ],
+    "People's Brewing": [
+        {
+            "name": "Boiler Gold American Golden Ale",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Boiler Gold American Golden Ale is brewed by People's Brewing Company using ingredients researched by Purdue University and grown by local farmers. As Purdue alumni, we are proud to support fermentation science and agriculture through these collaborations. A portion of the proeeds from this beer will directly benefit programs at Purdue University."
+        }
+    ],
+    "Trinity Brewing": [
+        {
+            "name": "Pappy Legba, Cerise Saison Regal",
+            "abv": "13.0%",
+            "seasonal": "Winter",
+            "image": "http://www.trinitybrew.com/trinity_images/BEER_HD13.gif",
+            "description":"As 'Pappy Legba' is the guardian to the crossroads, this special Belgian beer releases the first Friday of each New Year. Brewed with just a touch of flaked maize for a seductively creamy texture, post fermentation this special Belgian is aged on a grip of pie cherries, lending it more of a Kriek profile rather than Saison."
+        },
+        {
+            "name": "Mad Ear, Naked Bière de Garde",
+            "abv": "8.1%",
+            "seasonal": "Late Winter",
+            "image": "http://www.trinitybrew.com/trinity_images/BEER_HD77.jpg",
+            "description": "Grist: Barley, Oats + Rye, 35 IBUs of Styrian + Saaz, Mad Extended Boil for Mad Red Color, No Spices, Free-Rise Fermentation with Proprietary Yeast, Pair with Truffled Foie Gras, Cassoulet, Rosemary Lamb."
+        },
+        {
+            "name": "Three Flowers, Saison Vieille",
+            "abv": "7.0%",
+            "seasonal": "Spring",
+            "image": "http://www.trinitybrew.com/trinity_images/BEER_HD35.gif",
+            "description":"An Earth focused seasonal. We age this 'orange hued' ale on the tips of three secret varieties of flowers. We promised not to give up our secret on this beer, because it's just too good! Authentically Belgian and only available as the weather warms and flowers begin to bloom."
+        },
+        {
+            "name": "Le Capitaine, Golden Saison Regal",
+            "abv": "10.4%",
+            "seasonal": "Spring",
+            "image": "",
+            "description":"A Petite Buddha Saison brewed with an absurd amount of pumpkin, candied endive, cacao nibs, and Buddha's Hand. Fermented with various strains of Brettanomyces along with Saison yeast then aged on Chardonnay barrels, the resulting beer has a light body and very softly spoken complexities."
+        },
+        {
+            "name": "Menacing Kumquat, Fresh Harvest Saison",
+            "abv": "6.4%",
+            "seasonal": "Spring",
+            "image": "",
+            "description":"Grist: Golden Naked Oats and Pilsen, Fresh Florida ‘Winter Harvest’ Kumquats and Grains of Paradise, Free-Rise fermentation with a Proprietary Yeast Blend, Pair with Pound Cake or Pad Thai"
+        },
+        {
+            "name": "Saison Delivery, Fresh Harvest Saison",
+            "abv": "9.5%",
+            "seasonal": "Spring",
+            "image": "",
+            "description":"Brewed in collaboration with Freewill and McKenzie’s for Craft Brewer’s Conference 2016 in Philly, Fresh Palisade Colorado Apple ‘Pomace’ Tailings, Grains of Paradise, Dark Candy Sugar, Free-Rise Fermentation with a Proprietary Yeast Blend, Aged for long periods on Chardonnay barrels, Pair with Foie Gras, Thin Fried Zucchini Chips, or Washed Rind Cheeses."
+        },
+        {
+            "name": "Menacing Strawberry, Fresh Harvest Saison",
+            "abv": "6.5%",
+            "seasonal": "Summer",
+            "image": "",
+            "description":"Grist: Golden Naked Oats and Pilsen, Fresh/Whole Strawberries, Raw Sweet Potato, Pumpkin Meat, and Grains of Paradise, Free-Rise Fermentation with a Proprietary Yeast Blend, Pair with a slow cooked Pork Tenderloin or Chocolate Cayenne Mousse Frosted Artisanal Cupcakes."
+        },
+        {
+            "name": "Elektrick Cukumbahh, Saison d'été",
+            "abv": "6.5%",
+            "seasonal": "Summer",
+            "image": "",
+            "description":"Fresh/Whole Colorado Cucumbers, Lemon Zest, Grains of Paradise Free-Rise Fermentation with a Proprietary Yeast Blend, GABF Gold 2013 & Bronze 2014, Pair with Totten Inlet Virginica Oysters."
+        },
+        {
+            "name": "Menacing Apple, Fresh Harvest Saison",
+            "abv": "6.5%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: Golden Naked Oats and Pilsen Fresh Harvest Palisade Colorado Apples and Grains of Paradise, Free-Rise Fermentation with a Proprietary Yeast Blend, Pair with Vermont Unicorn Cheese, Grilled Fruit, Phat-Ass Stuffed Pork Chop upon a Sunchoke Mash"
+        },
+        {
+            "name": "Menacing Huckleberry, Fresh Harvest Saison",
+            "abv": "6.5%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: Golden Naked Oats and Pilsen, Fresh Harvest Whole Oregon Huckleberries and Grains of Paradise, Free-Rise Fermentation with a Proprietary Yeast Blend, Pair with seared Venison Medallions or an Ice Cream Sammich"
+        },
+        {
+            "name": "Menacing Peach, Fresh Harvest Saison",
+            "abv": "6.5%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"A fresh harvest Saison brewed with Grains of Paradise and fermented on LOADS of fresh & local Palisade Peaches!  We matched the fruit of this beer to Amarillo hops"
+        },
+        {
+            "name": "The Whole Pie, Fresh Harvest Saison",
+            "abv": "8.5%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: De-bittered Black Malt, Flaked Wheat, Golden Naked Oats, Spelt + Vienna, Massive amount of Pumpkin, Brown Sugar, Garam Masala, Ground Mace, Fresh Ginger, Coriander, Graham Crackers, Whole Madagascar Vanilla Beans + Roasted Hazelnuts, Free-Rise Fermentation with Proprietary Yeast, Pair with Goat Mole Rojo or Caramel-Drenched Flan. "
+        },
+        {
+            "name": "Velvet Ear, Dry-Hopped Saison Ale",
+            "abv": "6.5%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: Barley, Oats +Rye, 35 Initial IBUs, Dry Hopped to match the yeast profile, No Spices, Free-Rise Fermentation with Proprietary Yeast, Pair with Spotted Prawn, Halibut or Dungeness Benedict."
+        },
+        {
+            "name": "Thaison, Naked Bière de Miel",
+            "abv": "8.1%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: Barley, Oats +Rye, 35 IBUs of Styrian + Saaz, No Spices, brewed with Local Black Forest Honey, Free-Rise Fermentation with Proprietary Yeast, Pair with Peppadews filled with Goat Cheese, Prosciutto Cigar stuffed with Honeydew, or Salted Peanut Marzipan."
+        },
+        {
+            "name": "You Never Even Call Me by My Name, Black Saison Regal",
+            "abv": "12.2%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"This recipe is an intimidating jet black color. Flavored with a blend of sarsaparilla, sassafras, coriander, hibiscus and cumin to create a perfect balance of spiciness, sweetness, and acidity"
+        },
+        {
+            "name": "Hopped Toddy, Saison de Miel",
+            "abv": "13.8%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Inspired by chilling winter nights, this hopped braggot is made with 48% honey and 52% grains. The recipe was crafted with fresh ginger, lemon zest, Black & Orange Pekoe tea, then aged on bourbon barrels. We brew a single batch annually and cellar it for a minimum of 9 months"
+        },
+        {
+            "name": "Saison Man, Saison Provisional",
+            "abv": "4.9%",
+            "seasonal": "",
+            "image": "",
+            "description":"A 'Pre-Industry Session Saison', brewed with pilsen, rye, flaked wheat, flaked oats, spelt, coriander and grains of paradise. Fermented with a blend of Farmhouse yeast and Brettanomyces, dry hopped, and aged in Chardonnay barrels."
+        },
+        {
+            "name": "Some Weird Sin, BA Farmhouse",
+            "abv": "14.1%",
+            "seasonal": "",
+            "image": "",
+            "description":"Grist: Pilsen, golden naked oats, rye, and red wheat. Brewed with Red Zin must and Citra hops. Spiced with Grains of Paradise. Aged on Red Zin Barrels, and intentionally lightly carbonated for a vinous presentation. Pair with roasted leg of Goat stuffed with a Swiss Chard and lime pickle"
+        },
+        {
+            "name": "Certifiably Malchus, Bourbon Barrel Biere De Garde",
+            "abv": "9.2%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with only golden malts. Double mashed and Kettle boiled for over 24 hours to achieve a rich copper color and concentrate malts. Cool fermented with proprietary yeast and aged on choice Bourbon barrels. Pair with Pimento Cheese Deviled Eggs topped with toasted Pecans or 'slow cooked' Bacon-wrapped Pork Tenderloin"
+        },
+        {
+            "name": "TPS Report, Wild Brettanomyces Wit with Roses Petals",
+            "abv": "4.8%",
+            "seasonal": "",
+            "image": "",
+            "description":"GABF GOLD MEDAL 2009, Bronze 2012. Brewed with flaked oats, flaked wheat, tangerine zest, and lemon zests. Fermented 100% with a very rare variety of Brettanomyces this beer is exceedingly aromatic. Aged on French Oak Chardonnay Barrels and roses petals for complex maturity and sweet earthy notes."
+        },
+        {
+            "name": "Oh Face! Saison Provisional",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description":"The malt bill of this late 1800's inspired Belgian ale consists of a combination of barley, oats, wheat, rye and spelt. For the fermentation we use a blend of Saison yeast with three older Brettanomyces strains. This beer aged on lavender French oak Chardonnay barrels. "
+        },
+        {
+            "name": "Red Swingline, IPA Primitif. DRAFT Magazine's Top 25 Beers in the World for 2013!",
+            "abv": "4.1%",
+            "seasonal": "",
+            "image": "",
+            "description":"A wild and sour session IPA. Brewed with three heavily fruity hops, coriander, and tangerine zest the profile is definitely American in focus. Aged in French Oak Chardonnay barrels with souring Lactobacillus, funky Brettanomyces yeast, and dry-hopped in each individual barrel. This beer is a definite wow moment."
+        },
+        {
+            "name": "Damn, it Feels Good to be a Gangsta', Black & Wild Ironic Sour",
+            "abv": "8.1%",
+            "seasonal": "",
+            "image": "",
+            "description":"Grist: A Secret ‘Levity’ Blend of Dark Malts, Honey, Golden Raisins, Mustard Seed, Aged for long periods on Chardonnay barrels, Pair with Steak Tartare or an Umami-rich Truffle entree."
+        },
+        {
+            "name": "Naked Swing, Primitif Sans",
+            "abv": "4.1%",
+            "seasonal": "",
+            "image": "",
+            "description":"Aged on Chardonnay Barrels, No Zest, No Spices, No Dry Hop. Pair with guava sorbet and serve for entremets."
+        },
+        {
+            "name": "The Flavor, Triple Cherry Dark Kriek",
+            "abv": "5.8%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with dark malts, and Sumatran Coffee. Aged on French Oak barrels and toasted almonds with over a pound of pie cherries & sweet cherries per gallon of beer."
+        },
+        {
+            "name": "Brain of the Turtle, Petite Cerise",
+            "abv": "5.8%",
+            "seasonal": "",
+            "image": "",
+            "description":"This beer is the second running on the barrels use to brew The Flavor. Aged on oaken barrels, Sumatran Coffee, almonds, and used cherries. Brain features a dark dried cherry skin tannin note and a very creamy character."
+        },
+        {
+            "name": "Seven Day, Golden Sour",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with a first and second 'slims' process, a malt bill built with over 30% raw wheat, aged hops, Lactobacillus, and Brettanomyces. Both kettle and FV fermented, this beer never touches oak barrels."
+        },
+        {
+            "name": "Koelorado, Spontaneous Golden Sour",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with a first and second 'slims' process, a malt bill consisting of over 30% raw wheat, and aged hops. A 'first of its kind' beer to be produced in Colorado, in which we push the hot wort outside to our custom built coolship overnight allowing indigenous Colorado microbes to blow in and ferment the beer. Staying very strict to Belgian tradition, we only brew this beer during March and April when wild microbes are most favorable. This beer then ages for a full year on steam sterilized French oak Chardonnay barrels before bottling."
+        },
+        {
+            "name": "One Ear",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description":"An unspiced 'naked' Saison brewed with barley, oats, and rye. A Free-Rise fermentation develops a light fruit and pepper, while the assertive hoping profile creates a dry finish."
+        },
+        {
+            "name": "Seven Day, Golden Sour",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with a first and second 'slims' process, a malt bill built with over 30% raw wheat, aged hops, Lactobacillus, and Brettanomyces. Both kettle and FV fermented, this beer never touches oak barrels."
+        },
+        {
+            "name": "Soul Horkey Ale",
+            "abv": "5.5%",
+            "seasonal": "",
+            "image": "",
+            "description":"The flagship of our house brewed beers. Soul is a special recipe that combines ancient English tradition with newer Belgian influences. As a session ale built for true malt heads, this ale demonstrates the true depth and diversity of malt by blending 9 highest quality malts in a dry balance with Chinook and Kent Golding hops."
+        },
+        {
+            "name": "Sunna Wit Bier",
+            "abv": "4.8%",
+            "seasonal": "",
+            "image": "",
+            "description":"Distinct and delicate flaked wheat and oat beer. A noticeable citrus exists resulting from the addition of tangerine, lemon, lime zests, and corriander during the boil. By aging this beer on rose petals and fermenting it with 50% Saison yeast, we create signature earthy and spicy notes"
+        },
+        {
+            "name": "Flo India Pale Ale",
+            "abv": "6.4%",
+            "seasonal": "",
+            "image": "",
+            "description":"A staff and regulars favorite of our publik house. Brewed with a blend of eight hop varieties and seven world class malts this dry hopped ale combines both English and American brewing traditions. The resulting beer is driven by fruit and balanced by dry palate, a true treat for the bold fans of the hoppier side of beers."
+        },
+        {
+            "name": "Awaken Chicory Coffee Stout",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"A dark, creamy, and surprisingly drinkable Dry Stout. As you would expect from the brewers at Trinity, this Stout is anything but mainstream. Starting the base recipe with ten malts and three hop varieties, we age the resulting dry stout on locally roasted earthy Sumatran coffee beans and Chicory to create balanced and pleasing bitter notes."
+        },
+        {
+            "name": "Farmhouse Saison",
+            "abv": "3.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"A seasonally changing beer dictated by freshly available herbs, spices, fruits, grains, seeds, and vegetables. Adhering to the style's age old custom we completely change the recipe of this beer each time we brew it in an effort to push our talented Brewer's creativity to the limit! Depending on the time of the year we brew this beer from straw gold to jet black in color. Each of our 12+ rotating annual batches are available only once, catch the ghost while you can!"
+        },
+        {
+            "name": "Slap Yer Mammy",
+            "abv": "10.5%",
+            "seasonal": "",
+            "image": "",
+            "description":"A shocking Double IPA! Coming in at 10.5% ABV this huge ale is brewed with 7 of the highest quality malts and 9 varieties of hops! On our 125 minute boil we pack in 125 IBU's, making this one of the hoppiest beers ever brewed in the world. If that's not enough hops, then just wait! Unlike any of our other beers, we dry hop this one twice to pack in as much aroma as possible! A truly shocking Double IPA all you Hopophiles."
+        },
+        {
+            "name": "Saison Man, Saison Provisional",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description":"A 'Pre-Industry Session Saison', brewed with pilsen, rye, flaked wheat, flaked oats, spelt, coriander and grains of paradise. Fermented with a blend of Farmhouse yeast and Brettanomyces, dry hopped, and aged in Chardonnay barrels."
+        },
+        {
+            "name": "Doodle Beer, Session IPA",
+            "abv": "4.5%",
+            "seasonal": "",
+            "image": "",
+            "description":"Inspired by sketches we found on our coasters by our customers!  This Session IPA rings in at 75 'hop bursted' IBUs and combines a soft balanced finish with a light body.  Very easy to drink, and crafted for encouraging doodling."
+        },
+        {
+            "name": "Chocolate River, Imperial Stout",
+            "abv": "11.0%",
+            "seasonal": "Winter",
+            "image": "",
+            "description":"Just in time to keep you warm during the colder months of winter! Its body is huge, its dark malt character is huge, its hop profile is gigantic, and its ABV is enormous. It's basically everything that you would expect from a noteworthy Imperial Stout,and more! We brew this beer with rich milk chocolate then age it on whole Madagascar Vanilla Beans and Dagoba Cacao Nibs."
+        },
+        {
+            "name": "Three Flowers, Saison Vieille",
+            "abv": "7.0%",
+            "seasonal": "Spring",
+            "image": "",
+            "description":"An Earth focused seasonal. We age this 'orange hued' ale on the tips of three secret varieties of flowers. We promised not to give up our secret on this beer, because it's just too good! Authentically Belgian and only available as the weather warms and flowers begin to appear."
+        },
+        {
+            "name": "Super Juice Solution",
+            "abv": "",
+            "seasonal": "Summer",
+            "image": "",
+            "description":"Soured with Lactobacillus delbrueckii and complimented with heavily fruity American hops. We use a touch of coriander to reinforce the citrus theme of this beer. Although no fruit is used, this specialty IPA structure drinks refreshingly juicy and extremely session-able. "
+        },
+        {
+            "name": "Farmhouse Walloon, Saison d'jardin",
+            "abv": "5.0%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Inspired by the ancient and more authentic Saisons of southern Belgium. We gather the ingredients for this recipe from our own small Eco-region, and strictly only use ingredients from local farms and gardens. Each year we use a number of unique pumpkins and squashes along with a number of unpredictable ingredients that arrive with harvest to create the creamy and very drinkable indigenous interpretation of this Belgian style. Voted in the top 15 Saisons in the world in 2009 on ratebeer."
+        },
+        {
+            "name": "You Never Even Call Me by My Name, Black Saison Regal",
+            "abv": "12.2%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"This recipe is an intimidating jet black color. Flavored with a blend of sarsaparilla, sassafras, coriander, hibiscus and cumin to create a perfect balance of spiciness, sweetness, and acidity"
+        },
+        {
+            "name": "Chilly Water, Bourbon Barrel Aged Oatmeal Baltik Porter",
+            "abv": "8.5%",
+            "seasonal": "Winter",
+            "image": "",
+            "description":"This style is a bottom fermented lager traditionally brewed in Northern Europe. We age our interpretation on Bourbon Barrels (American Oak), which imparts a certain dryness accompanied by rich toffee flavors!"
+        },
+        {
+            "name": "Chocolate Pastry Stout, Dark Cacao Stout",
+            "abv": "4.5%",
+            "seasonal": "Winter",
+            "image": "",
+            "description":"Brewed with cacao nibs, liquid cacao, melted milk chocolate, milk sugar, and Madagascar Vanilla Beans. Malts: Marris otter, golden naked oats, English Caramel malt, Chocolate Malt, Black Patent, Roast Malt. Willford Brimely approved!!! Pair with Kit Kat lasagna and a shot of insulin."
+        },
+        {
+            "name": "Hype Forager, East Coast Turbid IPA",
+            "abv": "6.4%",
+            "seasonal": "Fall",
+            "image": "",
+            "description":"Grist: Pilsen, Golden Naked Oats, Flaked Wheat, Caramel, Brewed with Flour, Rotating Fresh and Juicy Fruits + Unfiltered Hype Hop Bursted, Double Dry Hopped, and aged on Tangerine Zest with all the key phrases, Pair with the Tears of New Millennial Fanboys."
+        },
+        {
+            "name": "Microbe of the Week, Pediococcus Golden Sour",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"Brewed with a first and second ‘Slims’ Process and a Malt Bill built with over 30% Raw Wheat, 20 IBUs of Styrian Goldings Kettle, Fermented with a mixture of Pediococcus then FV fermented with Brettanomyces, Pair with Beer Boiled Moules, Pommes Frites or Cured Pork."
+        },
+        {
+            "name": "Mob Barleywine",
+            "abv": "11.2%",
+            "seasonal": "",
+            "image": "",
+            "description":"Aged for at least one full year before release. Double mashed with an extended boil. Brewed with Marris Otter, Golden Naked Oats, English caramel malt, Special B, Roast Malt, and Chocolate Malt. Pair with an evening in front of a warm fire place in a rocking chair."
+        },
+        {
+            "name": "Stay Here, Naked Imperial Stout",
+            "abv": "12.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"Aged for at least one full year before release. Double mashed with an extended boil. Malts: Marris Otter, Golden Naked Oats, English Caramel Malt, Chocolate Malt, Black Patent, Roast Malt. Pair with Funeral Pie."
+        },
+        {
+            "name": "President's Club",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description":"100 Original IBUs of fruity American hops, Spiced with Tangerine Zest and Coriander, Aged for long periods on a large amount of hand-processed Palisade Harvest Apricots and Peaches, Pair with Toro Tuna or Wagyu Tataki. "
+        },
+        {
+            "name": "The Magma",
+            "abv": "%",
+            "seasonal": "",
+            "image": "",
+            "description":""
+        },
+        {
+            "name": "Zero Zero",
+            "abv": "%",
+            "seasonal": "",
+            "image": "",
+            "description":""
+        },
+        {
+            "name": "Koelorado Currant, 100% Colorado Spontaneous Fruited Golden",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description":"A blend of Spontaneous Koelschip Golden, barrel-aged golden, and barrel-aged saison that we add a plethora black/red currants to, Pair with Duck Confit or Molten Lava Cake."
+        },
+        {
+            "name": "Koelorado Cherry XX, 100% Colorado Spontaneous Fruited Golden",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "A blend of Spontaneous Koelschip Golden, barrel-aged golden, and barrel-aged saison that we add a plethora black/red currants to, Pair with Duck Confit or Molten Lava Cake."
+        }
+        
+    ],
+    "Logsdon Farmhouse Ales": [
+        {
+            "name": "Kili Wit",
+            "abv": "5.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Our unfiltered 'white' beer is brewed with African coriander and select yeast strains which provide an orangey fruitiness, mild tartness and subtle spicy phenolics. A dry, crisp, mildly hopped beer with a soft malt character from wheat and oats that develop a degree of creaminess with the malted barley."
+        },
+        {
+            "name": "Seizoen",
+            "abv": "7.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "A traditional farmhouse saison or 'seasonal' style beer brewed for flavor and rich character. Four select yeast strains are used to brew this complex, fruity and aromatic beer. An abundant amount of whole cone fuggle and golding hops create a desirable balance with the barley malt, wheat and oats."
+        },
+        {
+            "name": "Seizoen Bretta",
+            "abv": "8.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "This unfiltered bottle of seizoen, with it's beeswax seal, is naturally refermented and carbonated with select yeast strains, producing fruity and spicy flavors that are balanced by hops and soft malt character. Special Brettanomyces yeast provides added dryness and crisp complexity to the Seizoen Bretta.  Bottle conditioned with pear juice for a natural carbonation."
+        },
+        {
+            "name": "Peche ´n Brett",
+            "abv": "10.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Our seasonal oak aged peach beer is brewed with local Oregon fruit. Peche 'n Brett is b​rewed and refermented with the peaches added in to our award winning Seizoen Bretta. One and a half pound of peaches are added to each gallon of Bretta to produce a secondary fermentation resulting in complex oak-derived fruity dryness. Final refermentation with pear juice provides natural carbonation with added aromas and flavors captured in the bottle."
+        },
+        {
+            "name": "Cerasus",
+            "abv": "8.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "This is our organic kriek or tart cherry beer, a barrel-aged West Flanders style Red Ale with two pounds of fruit added per gallon of beer. Both sweet and tart Oregon cherries are added to our oak aged Far West Vlaming during the aging process with a combination of several yeast strains and lactic bacteria to develop a secondary fermentation. The crystal malts, oak tannins, and fruit develope into a soft well rounded beer of Burgundian character. The beer will increase in acidity as it ages providing additional character."
+        },
+        {
+            "name": "Far West Vlaming",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "This Red Ale is brewed in the 'Vlaming' or West Flanders style. A combination of pale, crystal, and dark roasted barley malt, wheat, and oats are brewed with local whole-cone hops, with a select variety of yeast and lactic bacteria. We age our Red Ale in oak barrels for a period of time to develop complex richness, soft tannins, and fruity, tart character.The aged beer is then blended with young beer to create the desired balance of malt sweetness with a dry finish."
+        },
+        {
+            "name": "Oak Aged Bretta",
+            "abv": "8.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "GOLD at Oregon Beer Awards 2017. Our Oak Aged Bretta is made with our Seizoen Bretta that is aged for a period of time to develop the wood aged character in the beer. Oak Tannins, vanilla notes and subtle smoky spiciness soften and mellow this beer over time. The aged unfiltered beer is refermented and carbonated in the bottle with select yeast strains to provide added dryness and complexity, then sealed with beeswax for additional aging."
+        },
+        {
+            "name": "Straffe Drieling Tripel",
+            "abv": "8.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "The triple, or 'tripel' style ale is probably the one style most commonly brewed by breweries is all of Flanders. Pure pilsner malt with a touch of oats provides a slightly sweet malty profile balanced by a judicious amount of whole cone noble Hallertau hops. Our triple is characterized by complex yet mildly spicy character from the compliment of traditional spices."
+        },
+        {
+            "name": "The Conversion-Series 2",
+            "abv": "5.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "This sour wit is the second beer in our Conversion Northwest Sour Ale series. It is a white beer that is brewed in the farmhouse tradition and opened to fermentation from a variety of wild yeast and lactic bacteria. The Conversion series represents our transition to wild ales; tart and juicy with lots of traditional farmhouse goodness - Our conversion to the wild side. "
+        },
+        {
+            "name": "Fresh Hop Seizoen",
+            "abv": "7.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "The 2015 Fresh Hop Seizoen with fresh hops from Oregon Hophouse, picked just hours before going into the brew kettle and conditioning tanks. "
+        },
+        {
+            "name": "Szech 'n Brett",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Fisherman enjoy a beverage while casting away. Weather fishing or imbibing, there are limits, whether it be a 5 leader or 5 liters. Saisons were brewed back in the day for farm workers with a 5 liter daily limit, a satiating standard that would allow for ample thirst quenching in any condition while still being able to complete the task at hand, both then and now. Our session-style Szechuan Brett was designed to do just that. whether farming or fishing, a little lighter beer extends the limit, a little pepper spice provides a little more character without over doing. What ever your limit is, enjoy our Czech 'n Brett, have a good catch, we do!"
+        },
+        {
+            "name": "Kleine Stouterd (Stout)",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Only Sold By Keg! This 'little' stout (de kleine in Flemish) is brewed with a selection of COLD STEEPED specialty malts, Hallertau and Liberty hops and another select strain of Belgian yeast, finished with pear juice. this low alcohol stout could have been the kind of stout that the farmers in Belgium would be drinking in the winter season, to warm up and to not get too drunk too fast. 'Kleine Stouterd' (naughtly little one), will eventually grow up and become 'Grote Stouterd' (Big Stout)."
+        },
+        {
+            "name": "Monikken Kruin Quadruple",
+            "abv": "8.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Only Sold By Keg! This is a malt heavy beer brewed in tghe Trappist tradition with our signature Northwest farmhouse twist. This 2015 holiday cheer is made using Nothwest organic pilsner and crystal malts and whole groat oats. Monikken Kruin is dry for the style, yet rich with carmel maltiness and balanced with a generous addition of Northwest hop varieties. Translated as 'The Monks Tonsure', or Monk's bald head, this beer pays homage to the biggest and best of the Abbey spirit from our farm to you."
+        },
+        {
+            "name": "ZuurPruin",
+            "abv": "7.4%",
+            "seasonal": "",
+            "image": "",
+            "description": "The Logsdon Family Reserve Series, showcases only select small batch specialty brews from our cellars. Each of these beers capture the unique and complex flavors from our beloved Hood River Valley and Pacific Northwest."
+        },
+        {
+            "name": "Spontane Wilde (method van lembeek)",
+            "abv": "8.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Only bottle in 375mL Bottle. Spontaneous beer brewed in the traditional 'Methode van Lembeek.' Our spontaneous fermented beer is brewed wiyj pilsner malt, raw wheat and aged hops in the traditional farmhouse method. wort set overnight in the koelschip loft, this beer embraces the raw natural flavors of the Hood River Valley flora, cave aged in oak for 1 - 2 years to develop rich complexity with balanced acidity.  "
+        }
+    ],
+    "Local Option Bierwerker": [
+        {
+            "name": "Blood Ov The Kings",
+            "abv": "6.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "At the peak of summer 1631 King Gustavus Adolphus led thousands of Swedish troops into Northern Germany. Following the destruction and subsequent plundering of Brandenburg Adolphus’ army marched through the endless wheat fields en route to Bavaria. Brewed with copious amounts of red wheat, Blood ov the Kings is aromatically driven by bread, biscuit and notes of exotic fruit. Hazy and medium bodied the beer has a rich and creamy mouth feel with a dry, bitter, and slightly sweet finish. Unbound by the Reinheitsgebot, Blood ov the Kings would certainly have been the vital fluid of victory for the Swedish monarch as he spilled blood across the wheat fields of Northern Europe."
+        },
+        {
+            "name": "Dampf Loc",
+            "abv": "5.3%",
+            "seasonal": "",
+            "image": "",
+            "description": "Dampf Loc is an all-barley warm fermented ale inspired by “Dampfbier” originally crafted by medieval peasant inhabitants of the Bavarian Forest. A modern interpretation of its Teutonic predecessor, this “Hefe Gerste” is true to its roots; unmistakable in character and accessible to beer drinkers of all palates. Dampf Loc has a mild hop profile, medium body and a clear, rich, orange hue."
+        },
+        {
+            "name": "Mourning Wood",
+            "abv": "7.3%",
+            "seasonal": "",
+            "image": "",
+            "description": "Mourning Wood is an oak-aged coffee amber ale.  Fresh American oak used during the aging process and Dark Matter’s El Salvador San Jose pulp-natural coffee aromatically drive the beer yet they remain subtle components of the beers’ overall flavor profile.This amber colored, medium-bodied, and extraordinarily well-balanced ale has a delicate taste that is appreciated by beer drinkers of all palates."
+        },
+        {
+            "name": "Outlawger",
+            "abv": "5.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Outlawger is designed to deliver fresh German lager to American soil. What’s the secret you ask? It begins by getting a famous German brewmaster wasted on American double IPA’s at Local Option, and then fooling him into revealing the most classified methods of making perfect Deutsch Pils. Consider this beer another victory for the Allies."
+        },
+        {
+            "name": "Barrel Aged Kentucky Common",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Barrel Aged Kentucky Common is a modern interpretation of a style native to pre-prohibition Louisville.  Historically the beer was dark in color, creamy, and tart as a result of the introduction of lactobacillus bacteria by sour mashing.  Local Option Bierkwerker took up the task of brewing this once familiar style – electing to use specialty grains rather than a large percentage of corn – yielding an adventurous taste profile befitting both conventional and courageous palates."
+        },
+        {
+            "name": "American Muscle",
+            "abv": "13.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "American Muscle – 666 Horsepower Double Pale Ale is massive hop bomb brewed for America by Americans in America. Aggressively late kettle and dry hopped with four quintessential varietals of American hops; this beer is built like houses used to be. A strong malt backbone balances a rich, pungent palate of citrus fruit with floral and earthy notes. No adjuncts or extracts of any type were used in this beer."
+        },
+        {
+            "name": "Shuggafem!",
+            "abv": "",
+            "seasonal": "",
+            "image": "",
+            "description": "Shuggahfem! brings together the most deviant and devastating forces in metal and beer. Brewed in Chicago by Local Option Bierwerker and Swedish death/progressive metal legends Meshuggah, this pummeling imperial stout pours pitch black with immediate notes of chocolate, and tropical fruit. The addition of sea salt enhances the beers enormous body; French oak during conditioning adds subtle notes of vanilla and oak while contributing to the beer’s smooth mouth feel and warming alcohol presence. Shuggahfem! balances strong aromas and flavors in a unique manner, landing it in a class of its own."
+        },
+        {
+            "name": "Exorcist",
+            "abv": "8.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Exorcist is a devastating foreign extra stout. This beast pours black as Satan’s heart. Barrages of exotic fruit follow the immediate intensity of dark chocolate malt; making the consumption of this beer a breath-taking affair, rendering your taste buds possessed. Bold in body, rich in flavor, with a dry finish, Exorcist is a testament to Local Option Bierwerker’s ability to make balanced beers of any style or ferocity."
+        },
+        {
+            "name": "Sky Burial",
+            "abv": "9.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Sky Burial is a bourbon barrel aged Belgian Strong Bier. Dark brown in color, aromas of caramel and stone fruits nest its brood. From the crest of ones palate, the beers winged descent arrays notes of vanilla and oak, flaunting its rich malt presence. This adequately bodied masterpiece is unassailable in drinkability, and will devour the remains of any beer nerd’s palate in its sight."
+        },
+        {
+            "name": "Voku Hila",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Voku Hila is a strong pale lager. This helles bock is golden in color with a large, creamy, persistent white head; aromatically driven by robust toast and bread notes derived from continental European pale malts with moderate spice from noble German hops.  Vokulhila will be appreciated by lager and mullet enthusiasts alike."
+        },
+        {
+            "name": "Die Königin",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "die Königin is an unfiltered oak-aged Kellerbier.  This strong lager pours hazy, bright amber with a white head.  Lightly effervescent with assertive biscuit qualities and an adequate Tettanang hop presence, die Königin is matured for several weeks on light toast oak, imparting a creamy mouth feel and a dry finish, accentuating sweet malt qualities.   This Stark Lager is produced in small quantities for lager connoisseurs with the most discerning palates."
+        },
+        {
+            "name": "Sweet Leif",
+            "abv": "6.5%",
+            "seasonal": "",
+            "image": "",
+            "description": "Sweet Leif is a Bière de Garde infused with Chinese Sencha Green Tea. The beer pours deep gold with aromas of earthy spice and fruit esters. Flavors of grass, toasted malt and slightly sweet caramel are immediately present, augmented by a smooth, medium body and a dry finish. You will love Sweet Leif though it can’t hear you."
+        },
+        {
+            "name": "Walk Ov Shame",
+            "abv": "5.8%",
+            "seasonal": "",
+            "image": "",
+            "description": "Walk ov Shame is a crushable saison. This exquisite, unfiltered elixir pours vibrant orange with a creamy, ivory head. Moderate fruit qualities are immediately present on the nose, followed by waves of spice, slight funkiness, discrete fruit esters, and earthiness. Fermented with proprietary yeast from a world-renown Wallonian producer, Walk ov Shame finishes dry, medium bodied and crisp, leaving you alone, with only your shameful desire to over indulge."
+        },
+        {
+            "name": "De Klein Dood",
+            "abv": "9.05%",
+            "seasonal": "",
+            "image": "",
+            "description": "When Central Waters decided to open its brew house for its first collaboration beer, Chicago’s Local Option was the obvious partner in crime.  The resulting brainchild, De Kleine Dood – a Belgian inspired Weissenbock – maintains the traditional characteristics of its Bavarian forbearer, with the added complexity of Belgian ale yeast.  De Kleine Dood is dark amber in color; maintains a rich, full-bodied mouth-feel augmented by caramel; mild and dark fruit; and vanilla and bourbon aromas as a result of six months of aging on Heaven Hill Barrels.  Rounded out by an unostentatious bourbon driven aroma from brief bourbon barrel aging, De Kleine Dood is a complex ale, a marriage of distinctive styles, and an orgasmic experience for the taste buds that revel in its glory."
+        },
+        {
+            "name": "Top Fuel",
+            "abv": "14.0%",
+            "seasonal": "",
+            "image": "",
+            "description": "Top Fuel is a barrel aged American style Barley Wine brewed by Local Option Bierwerker. This super charged beer surges forward at 330 MPH; appearing hazy light copper with immediate notes of toffee, caramel, pine and earthy undertones. Full bodied with a velvety mouth feel, and lingering bitterness, Top Fuel is aged on Four Roses bourbon barrels, yielding a devastating barley wine worthy of its name. No adjuncts or extracts of any type are used in Top Fuel."
+        }
+    ]
+}
